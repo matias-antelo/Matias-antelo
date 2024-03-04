@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nanontelo87.
-- 👀 I’m interested in data science, data analytics and AI.
+- 👀 I’m interested in data science, data analytics, Blockchain and smart contracts.
 - 🌱 I’m currently learning sistem analitycs.
 - 💞️ I’m looking to collaborate on DEFI and data science.
 - 📫 How to reach me anteloma87@gmail.com.
