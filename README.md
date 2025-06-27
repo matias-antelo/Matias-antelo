@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @matias-antelo.
-- 👀 I’m interested in data science, data analytics, Blockchain and smart contracts.
-- 🌱 I’m currently learning sistem analitycs.
-- 💞️ I’m looking to collaborate on DEFI and data science.
+- 👀 I’m interested in data science, data analytics, back-end web development.
+- 🌱 I’m currently learning sistem analitycs and data science.
+- 💞️ I’m looking to collaborate on back-end web development and data science.
 - 📫 How to reach me anteloma87@gmail.com.
-- 😄 Pronouns: Nano
-- ⚡ Fun fact: Gamer
-
-<!---
-nanontelo87/nanontelo87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
