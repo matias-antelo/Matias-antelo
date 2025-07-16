@@ -45,8 +45,7 @@
 </p>
 
 <h2>Contact me</h2>
-[![Mail](https://img.shields.io/badge/anteloma87@gmail.com-black?style=flat-square)](mailto:anteloma87@gmail.com)
-[![Label](https://img.shields.io/badge/EMAIL-red?style=flat-square)](mailto:anteloma87@gmail.com)
+
 
  
   
