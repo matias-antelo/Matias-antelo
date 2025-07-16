@@ -1,12 +1,12 @@
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
-
+<p align =justify>
 Hi! I'm Matías Antelo, an Agronomical Engineer and Data Analyst. I currently work as a professional analyst at Senasa, focusing on laboratory data analysis and building control dashboards using Qlik Sense.
 During my university studies, I was a teaching assistant in Climatology. That experience gave me strong statistical skills to work with large meteorological datasets, which were a core part of my thesis.
 I currently work with technologies such as Power BI, Qlik Sense, Python, and MySQL to build control dashboards for coordination tasks. At the same time, I’m expanding my programming skills by learning technologies like HTML, CSS, JavaScript, Java, among others.
 I'm always eager to learn new technologies. I'm a responsible person, highly committed to my work, with strong dedication to innovation, teamwork, and continuous professional growth.
-
+</p>
 <h2>Technologies</h2>
 
 <p align="left">
