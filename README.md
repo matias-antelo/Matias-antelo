@@ -1,13 +1,11 @@
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
-
 - 👀 I’m interested in data science, data analytics, back-end web development.
 - 🌱 I’m currently learning sistem analitycs and data science.
 - 💞️ I’m looking to collaborate on back-end web development and data science.
 
 <h2>Technologies</h2>
-
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,4 +26,7 @@
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
+<h2>Links</h2>
+
+<h2>Contact me</h2>
 
