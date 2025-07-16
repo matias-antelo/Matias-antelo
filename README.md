@@ -23,7 +23,7 @@ I'm always eager to learn new technologies. I'm a responsible person, highly com
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h2>Bussiness Intelligence</h2>
+<h2>Business Intelligence</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
