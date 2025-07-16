@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning sistem analitycs and data science.
 - 💞️ I’m looking to collaborate on back-end web development and data science.
 - 📫 How to reach me anteloma87@gmail.com.
+<p strong> asdasd </p>
