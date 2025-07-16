@@ -45,8 +45,8 @@
 </p>
 
 <h2>Contact me</h2>
-<a href="mailto:anteloma87@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
-</a>
+[![Mail](https://img.shields.io/badge/anteloma87@gmail.com-black?style=flat-square)](mailto:anteloma87@gmail.com)
+[![Label](https://img.shields.io/badge/EMAIL-red?style=flat-square)](mailto:anteloma87@gmail.com)
+
  
   
