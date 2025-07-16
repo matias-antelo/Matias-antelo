@@ -1,10 +1,12 @@
+<h1>Hi, I´m Matias Antelo</h1>
+<h2>About me</h2>
 - 👋 Hi, I’m @matias-antelo.
 - 👀 I’m interested in data science, data analytics, back-end web development.
 - 🌱 I’m currently learning sistem analitycs and data science.
 - 💞️ I’m looking to collaborate on back-end web development and data science.
 - 📫 How to reach me anteloma87@gmail.com.
 
-### Tecnologías
+<h2>Tecnologías</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
