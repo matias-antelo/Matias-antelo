@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <p>- 👀 I’m interested in data science, data analytics, back-end web development.</p>
 <p>- 🌱 I’m currently learning sistem analitycs and data science.</p>
-<p>- 💞️ I’m looking to collaborate on back-end web development and data science.</p>
+<p>- 👨‍💻 I’m looking to collaborate on back-end web development and data science.</p>
 
 <h2>Technologies</h2>
 <p align="left">
