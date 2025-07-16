@@ -45,7 +45,7 @@
 </p>
 
 <h2>Contact me</h2>
-📫antelomq87@gmail.com
+<h3>📫anteloma87@gmail.com </h3>
 
  
   
