@@ -44,10 +44,9 @@
   </a>
 </p>
 
-[![Website](https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge)](https://tusitio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-antelo/)
-[![Instagram](https://img.shields.io/badge/@nanoantelo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanoantelo/)
 <h2>Contact me</h2>
 <a href="mailto:anteloma87@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
   </a>
+  [![Email](https://img.shields.io/badge/📧%20anteloma87@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anteloma87@gmail.com)
+[![Send Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anteloma87@gmail.com)
