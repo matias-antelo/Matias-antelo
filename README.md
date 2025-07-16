@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 <h2>Links</h2>
-
+<p align="left">
+  <img src="https://www.linkedin.com/in/matias-antelo/" />
+</p>
 <h2>Contact me</h2>
 
