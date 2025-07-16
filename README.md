@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 <h2>Links</h2>
-<p align="center">
+<p align="justify">
   <a href="https://tusitio.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
