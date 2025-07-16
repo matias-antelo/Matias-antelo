@@ -1,9 +1,9 @@
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
-- 👀 I’m interested in data science, data analytics, back-end web development.
-- 🌱 I’m currently learning sistem analitycs and data science.
-- 💞️ I’m looking to collaborate on back-end web development and data science.
+<p>- 👀 I’m interested in data science, data analytics, back-end web development.</p>
+<p>- 🌱 I’m currently learning sistem analitycs and data science.</p>
+<p>- 💞️ I’m looking to collaborate on back-end web development and data science.</p>
 
 <h2>Technologies</h2>
 <p align="left">
