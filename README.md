@@ -33,7 +33,7 @@
 </p>
 <h2>Links</h2>
 <p align="justify">
-  <a href="https://tusitio.com" target="_blank">
+  <a href="https://matias-antelo.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matias-antelo/" target="_blank">
