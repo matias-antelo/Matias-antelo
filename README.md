@@ -7,9 +7,9 @@
 
 <h2>Technologies</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,visualstudio,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb" alt="Languages and Tools" height="150" style="vertical-align:top">
+  <img src="https://skillicons.dev/icons?i=java,visualstudio,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb,express" alt="Languages and Tools" height="150" style="vertical-align:top">
    
-   <img src="https://skillicons.dev/icons?i=express,nodejs" alt="More Tools" height="57" style="vertical-align:top">
+   <img src="https://skillicons.dev/icons?i=nodejs" alt="More Tools" height="57" style="vertical-align:top">
 </p>
 
 <h2>Business Intelligence</h2>
