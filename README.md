@@ -7,7 +7,7 @@
 
 <h2>Technologies</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,visualstudio,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb" alt="Languages and Tools" height="100" style="vertical-align:top">
+  <img src="https://skillicons.dev/icons?i=java,visualstudio,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb" alt="Languages and Tools" height="110" style="vertical-align:top">
    
    <img src="https://skillicons.dev/icons?i=express,nodejs" alt="More Tools" height="57" style="vertical-align:top">
 </p>
