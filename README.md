@@ -15,13 +15,13 @@
 <h2>Business Intelligence</h2>
 <p align="left" style="display: flex; align-items: center;">
   <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" height="30" style="margin-right:10px; vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="55" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="vertical-align:middle;"/>
 </p>
 
 <h2>Tools</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50" style="vertical-align:top; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="50" style="vertical-align:top;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="45" style="vertical-align:top; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="45" style="vertical-align:top;">
 </p>
 
 <h2>Links</h2>
