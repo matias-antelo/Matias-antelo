@@ -7,43 +7,30 @@
 
 <h2>Technologies</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)" /> 
-  <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)"  />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-apiREST-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,visualstudio,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb" alt="Languages and Tools" height="100" style="vertical-align:top">
+   
+   <img src="https://skillicons.dev/icons?i=express,nodejs" alt="More Tools" height="57" style="vertical-align:top">
 </p>
 
 <h2>Business Intelligence</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" height="30" style="margin-right:10px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="55" style="vertical-align:middle;"/>
 </p>
+
 <h2>Tools</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50" style="vertical-align:top; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="50" style="vertical-align:top;">
 </p>
+
 <h2>Links</h2>
 <p align="justify">
   <a href="https://www.linkedin.com/in/matias-antelo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="More Tools" height="50" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.instagram.com/nanoantelo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="More Tools" height="50" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
