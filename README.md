@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,vscode,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb,express" alt="Languages and Tools" height="150" style="vertical-align:top">
    
-   <img src="https://skillicons.dev/icons?i=nodejs" alt="More Tools" height="57" style="vertical-align:top">
+   <img src="https://skillicons.dev/icons?i=nodejs,json" alt="More Tools" height="57" style="vertical-align:top">
 </p>
 
 <h2>Business Intelligence</h2>
