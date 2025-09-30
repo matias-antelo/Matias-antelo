@@ -27,14 +27,14 @@
 
 <h2>Business Intelligence</h2>
 <p style="text-align:left;">
-  <img class="icon-img" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense">
-  <img class="icon-img" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
+  <img class="icon-img" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" height= 20px>
+  <img class="icon-img" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height= 50px>
 </p>
 
 <h2>Tools</h2>
 <p style="text-align:left;">
-  <img class="badge-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira">
-  <img class="badge-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height= 50px >
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height= 50px >
 </p>
 
 <h2>Links</h2>
