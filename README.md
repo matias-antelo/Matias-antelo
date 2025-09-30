@@ -33,8 +33,12 @@
 
 <h2>Tools</h2>
 <p style="text-align:left;">
+  <a>
   <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height= 50px >
+  </a>
+  <a>
   <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height= 50px >
+  </a>
 </p>
 
 <h2>Links</h2>
