@@ -6,11 +6,15 @@
     max-width: 100%;
     display: inline-block;
 }
+.img-row {
+    text-align: left;}
 
 @media (max-width: 600px) {
     .icon-img {
         height: 28px;
 
     }
-
+.img-row {
+      text-align: center;
+    }
 }
