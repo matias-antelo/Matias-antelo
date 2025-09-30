@@ -6,36 +6,64 @@
 <p>- 👨‍💻 I’m looking to collaborate on back-end web development and data science.</p>
 
 <h2>Technologies</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,vscode,eclipse,markdown,html,css,js,git,github,python,bootstrap,eclipse,mysql,mongodb,express" alt="Languages and Tools" height="150" style="vertical-align:top">
-   
-   <img src="https://skillicons.dev/icons?i=nodejs,json" alt="More Tools" height="57" style="vertical-align:top">
+<p style="text-align:left;">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=java" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=vscode" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=eclipse" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=markdown" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=html" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=css" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=js" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=git" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=github" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=python" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=bootstrap" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=eclipse" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=mysql" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=mongodb" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=express" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=nodejs" alt="More Tools">
 </p>
 
 <h2>Business Intelligence</h2>
-<p align="left" style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" height="30" style="margin-right:10px; vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="vertical-align:middle;"/>
+<p style="text-align:left;">
+  <img class="icon-img" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense">
+  <img class="icon-img" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
 </p>
 
 <h2>Tools</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="45" style="vertical-align:top; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="45" style="vertical-align:top;">
+<p style="text-align:left;">
+  <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira">
+  <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
 </p>
 
 <h2>Links</h2>
 <p align="justify">
   <a href="https://www.linkedin.com/in/matias-antelo/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="More Tools" height="50" style="vertical-align:top; margin:4px">
+    <img class="icon-img" src="https://skillicons.dev/icons?i=linkedin" alt="More Tools">
   </a>
   <a href="https://www.instagram.com/nanoantelo/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="More Tools" height="50" style="vertical-align:top; margin:4px">
+    <img class="icon-img" src="https://skillicons.dev/icons?i=instagram" alt="More Tools">
   </a>
 </p>
 
 <h2>Contact me</h2>
 <h3>📫anteloma87@gmail.com </h3>
 
- 
-  
+
+<style>
+  .icon-img {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+    margin: 4px;
+    vertical-align: middle;
+    max-width: 100%;
+  }
+  @media (max-width: 600px) {
+    .icon-img {
+      height: 35px;
+      width: 35px;
+    }
+  }
+</style>
