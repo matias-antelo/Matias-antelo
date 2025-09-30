@@ -1,0 +1,24 @@
+.icon-img {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+    margin: 4px;
+    vertical-align: middle;
+    max-width: 100%;
+  }
+  .badge-img {
+    height: 30px;
+    object-fit: contain;
+    margin: 4px;
+    vertical-align: middle;
+    max-width: 100%;
+  }
+  @media (max-width: 600px) {
+    .icon-img {
+      height: 35px;
+      width: 35px;
+    }
+    .badge-img {
+      height: 22px;
+    }
+  }

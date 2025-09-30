@@ -33,8 +33,8 @@
 
 <h2>Tools</h2>
 <p style="text-align:left;">
-  <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira">
-  <img class="icon-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
+  <img class="badge-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira">
+  <img class="badge-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
 </p>
 
 <h2>Links</h2>
@@ -49,21 +49,3 @@
 
 <h2>Contact me</h2>
 <h3>📫anteloma87@gmail.com </h3>
-
-
-<style>
-  .icon-img {
-    height: 50px;
-    width: 50px;
-    object-fit: contain;
-    margin: 4px;
-    vertical-align: middle;
-    max-width: 100%;
-  }
-  @media (max-width: 600px) {
-    .icon-img {
-      height: 35px;
-      width: 35px;
-    }
-  }
-</style>
