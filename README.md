@@ -7,7 +7,7 @@
 
 <h2>Technologies</h2>
 <p style="text-align:left;">
-  <img class="icon-img" src="https://skillicons.dev/icons?i=java" alt="Languages and Tools">
+  <!-- <img class="icon-img" src="https://skillicons.dev/icons?i=java" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=vscode" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=eclipse" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=markdown" alt="Languages and Tools">
@@ -22,7 +22,9 @@
   <img class="icon-img" src="https://skillicons.dev/icons?i=mysql" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=mongodb" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=express" alt="Languages and Tools">
-  <img class="icon-img" src="https://skillicons.dev/icons?i=nodejs" alt="More Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=nodejs" alt="More Tools"> -->
+  <img class="icon-img" src="/Matias-antelo/foto/java.png" alt="More Tools">
+  <img class="icon-img" src="/Matias-antelo/foto/VSC.png" alt="More Tools">
 </p>
 
 <h2>Business Intelligence</h2>
