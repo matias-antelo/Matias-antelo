@@ -1,3 +1,15 @@
+<style>
+  .icon-img {
+    height: 40px;       /* controla tamaño sin deformar */
+    object-fit: contain;
+    margin: 4px;
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .img-row { text-align: left; }
+</style>
+
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
@@ -23,8 +35,8 @@
   <img class="icon-img" src="https://skillicons.dev/icons?i=mongodb" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=express" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=nodejs" alt="More Tools"> -->
-  <img class="icon-img" src="/Matias-antelo/foto/java.png" alt="More Tools">
-  <img class="icon-img" src="/Matias-antelo/foto/VSC.png" alt="More Tools">
+  <img class="icon-img" src="./foto/java.png" alt="More Tools">
+  <img class="icon-img" src="./foto/VSC.png" alt="More Tools">
 </p>
 
 <h2>Business Intelligence</h2>
