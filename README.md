@@ -1,15 +1,3 @@
-<style>
-  .icon-img {
-    height: 40px;       /* controla tamaño sin deformar */
-    object-fit: contain;
-    margin: 4px;
-    vertical-align: middle;
-    display: inline-block;
-    max-width: 100%;
-  }
-  .img-row { text-align: left; }
-</style>
-
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
