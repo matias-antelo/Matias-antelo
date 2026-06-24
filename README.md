@@ -61,8 +61,8 @@
 
 <h2>Proyects</h2>
 <p align="justify">
-  <a href="https://aps.senasa.gob.ar/biologicosaprobados/" target="_blank">
-    <strong>BIOLOGICOS APROBADOS</strong>
+  <a href="https://aps.senasa.gob.ar/biologicosaprobados/" target="_blank" style="text-decoration: none;">
+    <strong>📌 BIOLOGICOS APROBADOS</strong>
   </a>
 </p>
 
