@@ -1,9 +1,11 @@
 <h1>Hi, I´m Matias Antelo</h1>
 
 <h2>About me</h2>
-<p>- 👀 I’m interested in data science, data analytics, back-end web development.</p>
-<p>- 🌱 I’m currently learning sistem analitycs and data science.</p>
-<p>- 👨‍💻 I’m looking to collaborate on back-end web development and data science.</p>
+<p>- 👨‍💻 Quality Control Analyst & Developer at SENASA.</p>
+<p>- 🔍 Experienced in functional analysis, process validation, incident management, and software quality assurance.</p>
+<p>- ⚙️ Contributing to the development and maintenance of GRECERT and Approved Biologicals using Java, HTML5, CSS, JavaScript, and SQL.</p>
+<p>- 🌱 Continuously learning about backend development, software architecture, and enterprise systems.</p>
+<p>- 🤝 Open to collaborating on Java backend, software quality, and business application projects.</p>
 
 <h2>Technologies</h2>
 <p style="text-align:left;">
@@ -55,6 +57,14 @@
   <a href="https://www.instagram.com/nanoantelo/" target="_blank">
     <img class="icon-img" src="https://skillicons.dev/icons?i=instagram" alt="More Tools">
   </a>
+</p>
+
+<h2>Proyects</h2>
+<p align="justify" >
+  <a href="https://aps.senasa.gob.ar/biologicosaprobados/" target="_blank">
+  <p>BIOLOGICOS APROBADOS</p>
+  </a>
+
 </p>
 
 <h2>Contact me</h2>
