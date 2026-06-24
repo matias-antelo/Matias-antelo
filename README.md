@@ -18,7 +18,10 @@
   <img class="icon-img" src="https://skillicons.dev/icons?i=github" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=python" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=bootstrap" alt="Languages and Tools">
-  <img class="icon-img" src="https://skillicons.dev/icons?i=eclipse" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=spring" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=docker" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=gradle" alt="Languages and Tools">
+  <img class="icon-img" src="https://skillicons.dev/icons?i=hibernate" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=mysql" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=mongodb" alt="Languages and Tools">
   <img class="icon-img" src="https://skillicons.dev/icons?i=express" alt="Languages and Tools">
