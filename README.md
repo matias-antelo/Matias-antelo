@@ -60,11 +60,10 @@
 </p>
 
 <h2>Proyects</h2>
-<p align="justify" >
+<p align="justify">
   <a href="https://aps.senasa.gob.ar/biologicosaprobados/" target="_blank">
-  <p>BIOLOGICOS APROBADOS</p>
+    <strong>BIOLOGICOS APROBADOS</strong>
   </a>
-
 </p>
 
 <h2>Contact me</h2>
